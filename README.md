@@ -1,2 +1,2 @@
-# week-updates-2
-Week updates 2
+# Week updates
+Below Repository Is For Week Updates
